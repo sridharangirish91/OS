@@ -1,1 +1,1 @@
-git git git.. gitting on my nerves!!!!
+Learning GIT - using commit -a command and testing
