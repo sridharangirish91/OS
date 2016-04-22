@@ -2,10 +2,7 @@
 
 trying rename
 
-<<<<<<< HEAD
+
 added line master github
 
 
-=======
-trying branching linux
->>>>>>> linux
